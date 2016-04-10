@@ -1,0 +1,215 @@
+body{ 
+}
+#menu{
+    text-align: center;
+}
+#menu li{
+    display: inline;
+    margin: 3px;
+}
+#menu li a{
+    padding: 10px 20px;
+    text-decoration: none;
+    
+}
+.col1{
+    width: 8.33%;
+}
+.col2{
+    width: 16.66%;
+}
+.col3{
+   width:  24.99%;
+    
+}
+.col4{
+   width:  33.32%;
+    
+}
+.col5{
+   width:  41.65%
+}
+.col6{
+    width:  49.98%;
+}
+.col7{
+   width:  58.31%
+}
+.col8{
+   width:  66.64%;
+}
+.col9{
+   width:  74.97%;
+}
+.col10{
+   width:  83.3%;
+}
+.col11{
+   width:  91.63%;
+}
+.col12{
+   width:  99.96%;
+}
+.coli, .col2, .col3, .col4, .col5, .col6, .col7, .col8, .col9, .col10, .col11, .col12{
+    
+float: left;
+    display: inline-block;
+    text-align: center;
+    vertical-align: center;
+}
+.x{
+  height:  1px;
+}
+
+.vic{
+    display: block;
+    margin: 0 auto;
+}
+.font{
+    font: 50px;
+}
+.we{
+    margin-top: 80px;
+    font-size: 50;
+    color: white;
+}
+.y{
+    background-color: #352D2F;
+}
+.m{
+    background-color: #352D2F;
+        color: white;
+}
+.logo{
+    margin-left: 0px;
+}
+.p{
+    font-size: 17px;;
+        color:white;
+   
+}
+.but{
+     height: 40px;
+    width: 60%;
+    background-color:white;
+    color:black;
+    border-color: black;
+}
+
+.button{
+    height: 40px;
+    width: 25%;
+    background-color: red;
+    color:white;
+   margin: 0 auto;
+}
+#P{
+    margin-left: 0 auto;
+    text-align: left;
+  margin-left:px; 
+    height: 300px;
+    margin-top: 50px
+        
+}
+.r{
+    
+    background-color: red;
+  
+}
+.p2{
+    font-size: 15;
+    text-align: left;
+}
+.h1{
+    font-size: 50;
+    font-family: 'Slabo 27px', serif;
+}
+#yes{`
+    text-align: left;
+}
+.row2{
+    float: left;
+    display: inline-block;
+    height: 500px;
+}
+#1{
+    margin-left: 20%;
+}
+#c{
+    height: 81px;
+    background-color: #352D2F; 
+}
+.m{
+   margin-top: 120px;
+}
+#row3{
+    margin-top: 50px;
+}
+.our{
+   text-align: center;
+    font-size: 30px;
+     font-family: 'Slabo 27px', serif;
+}
+.ou{
+    font-size: 40px;
+    font-family:'Slabo 27px', serif;
+    color: white;
+}
+.o{
+    font-size: 20px;
+    color: white;
+}
+.l{
+    color: white;
+    font-size: 25px
+}
+.height{
+    height: 150px
+}
+.space{
+  color: white
+
+}
+.img{
+    height: 300px;
+}
+.num{
+    font-size: 58px;
+    color: red
+}
+.service{
+text-align: left;
+}
+.service h1{
+font-size: 50px;
+    text-align:center;
+}
+#img{
+    text-align:left;
+        
+}
+.jon{
+    margin: 10px;
+    height: 200px;
+    width: 260px
+}
+.size{
+    
+    height: 90px;
+    text-align: center;
+}
+.siz{
+    height: 60px;
+}
+.si{
+    height: 200px
+}
+.ad{
+    height: 40px
+}
+.f{
+    background-color:gray;
+}
+.w{
+    width: 150
+}
