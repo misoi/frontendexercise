@@ -1,5 +1,7 @@
-body{ 
+body{
+    margin: 0 auto;
 }
+
 #menu{
     text-align: center;
 }
@@ -10,52 +12,7 @@ body{
 #menu li a{
     padding: 10px 20px;
     text-decoration: none;
-    
-}
-.col1{
-    width: 8.33%;
-}
-.col2{
-    width: 16.66%;
-}
-.col3{
-   width:  24.99%;
-    
-}
-.col4{
-   width:  33.32%;
-    
-}
-.col5{
-   width:  41.65%
-}
-.col6{
-    width:  49.98%;
-}
-.col7{
-   width:  58.31%
-}
-.col8{
-   width:  66.64%;
-}
-.col9{
-   width:  74.97%;
-}
-.col10{
-   width:  83.3%;
-}
-.col11{
-   width:  91.63%;
-}
-.col12{
-   width:  99.96%;
-}
-.coli, .col2, .col3, .col4, .col5, .col6, .col7, .col8, .col9, .col10, .col11, .col12{
-    
-float: left;
-    display: inline-block;
-    text-align: center;
-    vertical-align: center;
+
 }
 .x{
   height:  1px;
@@ -69,12 +26,13 @@ float: left;
     font: 50px;
 }
 .we{
-    margin-top: 80px;
+    margin-top: 0px;
     font-size: 50;
     color: white;
 }
 .y{
     background-color: #352D2F;
+    text-align: center;
 }
 .m{
     background-color: #352D2F;
@@ -86,7 +44,7 @@ float: left;
 .p{
     font-size: 17px;;
         color:white;
-   
+
 }
 .but{
      height: 40px;
@@ -106,15 +64,15 @@ float: left;
 #P{
     margin-left: 0 auto;
     text-align: left;
-  margin-left:px; 
+  margin-left:px;
     height: 300px;
     margin-top: 50px
-        
+
 }
 .r{
-    
+
     background-color: red;
-  
+
 }
 .p2{
     font-size: 15;
@@ -137,7 +95,7 @@ float: left;
 }
 #c{
     height: 81px;
-    background-color: #352D2F; 
+    background-color: #352D2F;
 }
 .m{
    margin-top: 120px;
@@ -186,7 +144,7 @@ font-size: 50px;
 }
 #img{
     text-align:left;
-        
+
 }
 .jon{
     margin: 10px;
@@ -194,7 +152,7 @@ font-size: 50px;
     width: 260px
 }
 .size{
-    
+
     height: 90px;
     text-align: center;
 }
